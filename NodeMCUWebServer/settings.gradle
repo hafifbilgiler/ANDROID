@@ -1,0 +1,2 @@
+rootProject.name='NodeMCU-WebServer'
+include ':app'

@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         buton_mavi_kapat.setBackgroundColor(Color.DKGRAY);
         ipadresi=(EditText)findViewById(R.id.editText);
         ipadresi.setText("192.168.0.0");
-        version.setText(" ver 1.0.0");
+        version.setText(" ver 1.0.1");
         button_yesil_ac.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

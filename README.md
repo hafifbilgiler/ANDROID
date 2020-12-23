@@ -1,5 +1,5 @@
 # ANDROID
-This repository contains android applicaiton source codes.
+This repository contains android applicaiton source codes or apk files.
 ====================================================================================================
 NODEMCU WEB SERVER 
 ====================================================================================================
